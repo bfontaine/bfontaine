@@ -17,10 +17,3 @@
 <a href="https://github.com/bfontaine">
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
-
-<a href="https://github.com/bfontaine">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/bfontaine">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
