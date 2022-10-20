@@ -90,6 +90,7 @@ jobs:
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_followup: yes
+          plugin_followup_archived: yes
           plugin_languages: yes
 
 
