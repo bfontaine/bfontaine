@@ -53,6 +53,7 @@ jobs:
           template: classic
           base: activity, community
           config_timezone: ${{ secrets.USER_TIMEZONE }}
+          repositories_affiliations:
 
   iso_calendar:
     runs-on: ubuntu-latest
