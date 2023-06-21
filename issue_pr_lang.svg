@@ -127,7 +127,7 @@
                     <rect mask="url(#languages-bar)" x="353.0942098818984" y="0" width="27.92611760583093" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="381.02032748772933" y="0" width="23.464583417915453" height="8" fill="#00ADD8"/>
                     <rect mask="url(#languages-bar)" x="404.4849109056448" y="0" width="16.475838392558302" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="420.9607492982031" y="0" width="11.120013628972211" height="8" fill="#3be133"/>
+                    <rect mask="url(#languages-bar)" x="420.9607492982031" y="0" width="11.120013628972211" height="8" fill="#ef7a08"/>
                     <rect mask="url(#languages-bar)" x="432.0807629271753" y="0" width="10.956578630680688" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="443.037341557856" y="0" width="9.400059092550551" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="452.4374006504066" y="0" width="7.562599349593432" height="8" fill="#c6538c"/>
@@ -159,7 +159,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3be133" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ef7a08" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         OCaml
                     </div>
